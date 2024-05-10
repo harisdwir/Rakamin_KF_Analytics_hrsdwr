@@ -1,4 +1,4 @@
-Tools
-Google BigQuery
-Looker Studio
-MySQL Workbench
+## Tools
+- Google Big Query
+- Looker Studio
+- MySQL Workbench
