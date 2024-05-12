@@ -45,4 +45,3 @@ SET nett_profit =
 WHERE nett_profit IS NULL;
 
 -- I do LEFT JOIN on LOOKER STUDIO between Final Transaction and Kantor Cabang table
--- I also do LEFT JOIN on LOOKER STUDIO between Final Transaction and Inventory Table
