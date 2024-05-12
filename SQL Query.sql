@@ -43,3 +43,6 @@ SET nett_profit =
     ELSE nett_sales*0.3
   END
 WHERE nett_profit IS NULL;
+
+-- I do LEFT JOIN on LOOKER STUDIO between Final Transaction and Kantor Cabang table
+-- I also do LEFT JOIN on LOOKER STUDIO between Final Transaction and Inventory Table
