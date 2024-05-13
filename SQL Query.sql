@@ -5,7 +5,7 @@
 
 -- add nett_sales column and set its data type
 ALTER TABLE `rakamin-kf-analytics-hrsdwr.Kimia_Farma.Final Transaction`
-ALTER COLUMN nett_sales SET DATA TYPE FLOAT64;
+ADD COLUMN nett_sales SET DATA TYPE FLOAT64;
 
 -- update and assign value of nett_sales column
 UPDATE `rakamin-kf-analytics-hrsdwr.Kimia_Farma.Final Transaction`
