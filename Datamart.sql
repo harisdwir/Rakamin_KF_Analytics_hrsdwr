@@ -33,7 +33,4 @@ WITH analytic_table AS (
  ON
  FT.product_id = PD.product_id
 )
-SELECT
- *
-FROM
- analytic_table;
+SELECT * FROM analytic_table; -- to retrieve all the data from the CTE command
